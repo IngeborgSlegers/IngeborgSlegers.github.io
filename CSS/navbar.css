@@ -1,0 +1,30 @@
+.test {
+    background-color: var(--black);
+    color: red;
+}
+
+.navbar-brand a {
+    color: coral;
+}
+
+.navbar-nav .nav-link{
+    color: blue;
+}
+
+
+button.navbar-toggler.hamburger {
+    color: green
+}
+
+.dropdown {
+    color: orange;
+}
+
+.nav{
+    color: purple;
+}
+
+.navibar{
+    background-color: teal;
+    color: pink;
+}

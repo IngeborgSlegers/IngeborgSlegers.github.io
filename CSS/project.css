@@ -1,0 +1,36 @@
+#portfolio {
+    background-color: var(--black);
+    background-size: cover;
+    margin: 0;
+    height: 450px;
+}
+
+#portfolio h1{
+    color: white;
+    font-size: 30px;
+    font-family: avenir, 'avenir next', helvetica, sans-serif;
+    margin-top: 60px;
+    text-align: center;
+}
+
+#portfolio h2{
+    color: white;
+    font-size: 20px;
+    font-family: avenir, 'avenir next', helvetica, sans-serif;
+
+    text-align: center;
+}
+
+#portfolio p{
+    color: white;
+    font-size: 14px;
+    font-family: avenir, 'avenir next', helvetica, sans-serif;
+    text-align: center
+}
+
+
+
+.portfolio {
+    margin-top: 120px;
+    text-align: center;
+}
