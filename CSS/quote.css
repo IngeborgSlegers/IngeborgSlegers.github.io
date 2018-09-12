@@ -1,23 +1,20 @@
 #quote{
     background-image: url("../Assets/Image/annie-spratt-419263-unsplash.jpg");
     background-size: cover;
-    margin: 0;
-    height: 500px;
+    margin-top: 0em;
+    height: 100vh;
 }
 
-#quote h1{
-    font-size: 20px;
-    color: #001320;
-    margin: 0px 20px 20px 20px;
-}
 
 #quote p{
-    font-size: 18px;
+    font-size: 1.6vw;
     color: var(--black);
-    text-align: right;
-    margin: 20px;
+    text-align: justify;
+    margin: 2em;
+    font-family: 'Open Sans', sans-serif;
 }
 
-.quote{
-    padding: 100px 60px 40px 60px;
+div.col.quoted{
+    background-color: rgba(255, 255, 255, 0.3);
+    margin-top: 10em;
 }

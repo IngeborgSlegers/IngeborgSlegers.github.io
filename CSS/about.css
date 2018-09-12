@@ -1,35 +1,42 @@
 #about {
     background-color: #001320;
     background-size: cover;
-    margin: 0;
-    height: 600px;
+    height: 100vh;
 }
+
 
 #about h1{
     color: white;
-    font-size: 30px;
-    font-family: avenir, 'avenir next', helvetica, sans-serif;
+    font-size: 2.5em;
+    font-family: 'Open Sans', sans-serif;
     text-align: center;
-    display: inline;
+    margin-top: 2em;
 }
 
 #about p{
     color: white;
-    font-size: 14px;
-    font-family: avenir, 'avenir next', helvetica, sans-serif;
+    font-size: 1.5vw;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
     text-align: justify;
-    display: inline;
 }
 
-.about {
-    padding: 60px;
+.btn-info{
+    color: white;
+    background-color: #001320;
+    border-color: #001320;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 1.5vw;
 }
 
-#about img{
-    width: 250px;
-    border-radius: 50%;
+.btn-info:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    border-color: #001320;
 }
 
-#col-md-4 aboutMeImg {
-    padding: 0;
+.row.button {
+    text-align: center;
+    display: block;
+    font-size: 1.5vw;
 }

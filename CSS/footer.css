@@ -1,0 +1,9 @@
+#Footer{
+    text-align: center;
+    width: 100%;
+    display: none;
+}
+
+#Footer li{
+    justify-content: center;
+}
