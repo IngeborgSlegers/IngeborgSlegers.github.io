@@ -1,9 +1,7 @@
-#Footer{
+section#footer{
     text-align: center;
-    width: 100%;
-    display: none;
-}
-
-#Footer li{
-    justify-content: center;
+    color: white;
+    height: 20px;
+    font-family: 'open sans', sans-serif; 
+    font-size: 1vw;
 }
