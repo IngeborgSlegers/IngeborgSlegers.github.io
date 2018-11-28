@@ -5,10 +5,16 @@
     text-align: center;
 }
 
+.title {
+    display: grid; 
+    height: 110vh;
+    align-content: center;
+}
+
 .smoke h1{
     color: #d3d3d3;
     text-align: center;
-    margin-top: 260px;
+    /* margin-top: 260px; */
     font-family: 'Dawning of a New Day', cursive;
     transform: scale(1, 2);
     font-size: 6vw;
