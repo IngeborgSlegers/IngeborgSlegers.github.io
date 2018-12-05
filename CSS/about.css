@@ -16,6 +16,7 @@ Then anything that needs to be queried gets dropped below*/
     text-align: center;
     margin-top: 5vh;
     margin-left: 2vh;
+    margin-bottom: 5vh;
 }
 
 #about p{
@@ -71,6 +72,7 @@ Then anything that needs to be queried gets dropped below*/
     text-align: center;
     display: block;
     font-size: 6vh;
+    margin-top: 5vh;
 }
 
 
