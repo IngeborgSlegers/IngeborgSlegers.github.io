@@ -32,13 +32,6 @@
     padding: 3vh;
 }
 
-/* .individual:hover { */
-    /* background-color: rgba(255, 255, 255, 0.2); */
-    /* border-color: #001320; */
-    /* border-radius: 3em; */
-    /* padding: 2vh; */
-/* }  */
-
 .projects {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -72,4 +65,25 @@
     height: 4vh;
     padding: 0;
     padding-right: 3vh;
+}
+
+.gardens {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.gardens img {
+    width: 100%;
+}
+
+.gardens img:hover {
+    transform: scale(2.9); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+    padding: 0;
+    position: relative;
+    top: 4%;
+    right: 5%;
 }
