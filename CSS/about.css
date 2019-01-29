@@ -75,6 +75,10 @@ Then anything that needs to be queried gets dropped below*/
     margin-top: 5vh;
 }
 
+.resume img {
+    height: 150px;
+}
+
 
 /* Responsive */
 @media screen and (max-width: 1159px) {

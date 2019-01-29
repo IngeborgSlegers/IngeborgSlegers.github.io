@@ -7,7 +7,15 @@ Then anything that needs to be queried gets dropped below*/
     background-size: cover;
     height: 100vh;
     text-align: center;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
 }
+
+/* background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover; */
 
 .title {
     display: grid; 
