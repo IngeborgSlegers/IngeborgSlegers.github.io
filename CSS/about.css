@@ -59,12 +59,13 @@ Then anything that needs to be queried gets dropped below*/
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     font-size: 3vh;
+    margin: 3vh auto;
 }
 
 .btn-info:hover {
     background-color: rgba(255, 255, 255, 0.2);
     border-color: #001320;
-    padding: 2vh;
+    /* padding: 2vh; */
     border-radius: 3vh;
 }
 
@@ -75,8 +76,28 @@ Then anything that needs to be queried gets dropped below*/
     margin-top: 5vh;
 }
 
-.resume img {
+.resume {
     height: 150px;
+    text-align: center;
+    margin: auto;
+}
+
+/* .modal-content {
+    background-color:  rgb(167,182,188);
+} */
+
+.button1 {
+    text-align: center;
+    margin: auto;
+    background-color: rgb(167,182,188, 0.8);
+    border-radius: 3vh;
+    border-color: rgb(167,182,188, 0.8);
+}
+
+.button1:hover {
+    text-align: center;
+    margin: auto;
+    background-color: #001320;
 }
 
 
