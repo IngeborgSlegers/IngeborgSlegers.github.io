@@ -3,7 +3,7 @@
 /*Insert all your CSS for main website here
 Then anything that needs to be queried gets dropped below*/
 #header {
-    background-image: url("../Assets/Image/smoke.jpg");
+    background-image: url("../Assets/Backgrounds/smoke.jpg");
     background-size: cover;
     height: 100vh;
     text-align: center;
