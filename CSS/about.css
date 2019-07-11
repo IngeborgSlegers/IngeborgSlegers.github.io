@@ -90,13 +90,15 @@ Then anything that needs to be queried gets dropped below*/
     text-align: center;
     margin: auto;
     background-color: rgb(167,182,188, 0.8);
-    border-radius: 3vh;
+    border-radius: 3.5vh;
     border-color: rgb(167,182,188, 0.8);
+    padding: 0.5em 2em;
 }
 
 .button1:hover {
     text-align: center;
     margin: auto;
+    border-radius: 3.5vh;
     background-color: #001320;
 }
 
